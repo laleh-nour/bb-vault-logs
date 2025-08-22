@@ -1,0 +1,12 @@
+{
+  "vault": "0xba12222222228d8ba445958a75a0704d566bf2c8",
+  "range": 100,
+  "latestBlock": 23196337,
+  "totals": {
+    "allLogs": 59,
+    "swapLogs": 0
+  },
+  "errorCount": 0,
+  "errors": [],
+  "generatedAt": "2025-08-22T11:34:10.941Z"
+}
